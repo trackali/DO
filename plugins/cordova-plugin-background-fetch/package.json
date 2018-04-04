@@ -1,0 +1,61 @@
+{
+  "_from": "cordova-plugin-background-fetch@~5.2.1",
+  "_id": "cordova-plugin-background-fetch@5.2.1",
+  "_inBundle": false,
+  "_integrity": "sha512-xMy5GhkInyPfbG9m4pEUxUdCOugrcrm0EYJU47cBWK6+HWof0n9qw14iPvkL+YvkeiUbLTv6U0EvzTmkHNJJTA==",
+  "_location": "/cordova-plugin-background-fetch",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cordova-plugin-background-fetch@~5.2.1",
+    "name": "cordova-plugin-background-fetch",
+    "escapedName": "cordova-plugin-background-fetch",
+    "rawSpec": "~5.2.1",
+    "saveSpec": null,
+    "fetchSpec": "~5.2.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-background-fetch/-/cordova-plugin-background-fetch-5.2.1.tgz",
+  "_shasum": "3920ecf9b34fa7f134c69729fec0c22cfa8dd92f",
+  "_spec": "cordova-plugin-background-fetch@~5.2.1",
+  "_where": "C:\\Users\\alial\\Desktop\\Development\\MyApp",
+  "author": {
+    "name": "Chris Scott, Transistor Software",
+    "email": "chris@transistorsoft.com"
+  },
+  "bugs": {
+    "url": "https://github.com/transistorsoft/react-native-background-fetch/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-background-fetch",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "A plugin to periodically awaken your app in the background every 15 minutes to perform some work.",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "homepage": "https://github.com/transistorsoft/react-native-background-fetch",
+  "keywords": [
+    "cordova",
+    "background",
+    "fetch"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-background-fetch",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transistorsoft/cordova-plugin-background-fetch.git"
+  },
+  "version": "5.2.1"
+}
